@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import AuthContext from '../Context/auth-context';
+import AuthContext from '../../Context/auth-context';
 
 import classes from './Navigation.module.css';
 
